@@ -9,3 +9,10 @@ ourWebsite stuff downloads
 <br>
 
 > *also if you see any bugs create an issue except for the file not found one*
+
+## updates and other stuff
+
+the following OurGame versions might be added at some point:
+- 1.5.2
+- Beta 1.3
+- 1.8.8 (multiplayer version)
