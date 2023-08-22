@@ -19,8 +19,8 @@ the following OurGame versions might be added at some point:
 
 ## developer guide
 #### table of contents
-1. [changing password]()
-1. changing password
+1. [changing password](#changing-password)
+### changing password
 - ok so basically to change the password you have to go to one of the encrypted files and then somewhere in the code it should have this code:
   ```javascript
         function blankScreen() {
