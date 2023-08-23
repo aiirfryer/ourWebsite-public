@@ -16,3 +16,4 @@ the following OurGame versions might be added at some point:
 - 1.5.2
 - Beta 1.3
 - 1.8.8 (multiplayer version)
+- ourcraft clone
