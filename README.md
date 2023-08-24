@@ -1,5 +1,5 @@
 # OurWebsite stuff downloads
-ourWebsite stuff downloads V.3.2 Alpha
+ourWebsite stuff downloads V.3.1
 
 ## Installation
 1. press on code and click "download zip"
@@ -17,3 +17,5 @@ the following OurGame versions might be added at some point:
 - Beta 1.3
 - 1.8.8 (multiplayer version)
 - ourcraft clone
+
+*you can access early unfinished releases on the releases tab.*
