@@ -19,3 +19,5 @@ the following OurGame versions might be added at some point:
 - ourcraft clone
 
 *you can access early unfinished releases on the releases tab.*
+
+<!--patched so no more updates probably-->
