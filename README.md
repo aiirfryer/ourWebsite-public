@@ -1,6 +1,8 @@
 # OurWebsite stuff downloads
 ourWebsite stuff downloads V.3.1
 
+NOTE: OurWebsite will not be updated anymore because they blocked javascript on files. But maybe your district did'nt block javascript on files yet so yeah
+
 ## Installation
 1. press on code and click "download zip"
 2. extract files
