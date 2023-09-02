@@ -2,6 +2,7 @@
 ourWebsite stuff downloads V.3.1
 
 NOTE: OurWebsite will not be updated anymore because they blocked javascript on files. But maybe your district did'nt block javascript on files yet so yeah
+NOTE 2: might make a tutorial on how to run ourwebsite games on a website so javascript isnt blocked
 
 ## Installation
 1. press on code and click "download zip"
